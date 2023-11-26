@@ -25,7 +25,7 @@ A simple old school style blog to demonstrate using Sequelize as an ORM with exp
 MSU Fullstack Online Bootcamp
 ## License 
 
-    ![badge](https://img.shields.io/badge/license-MIT-blue.svg) [MIT Licensing](https://opensource.org/license/mit/)
+![badge](https://img.shields.io/badge/license-MIT-blue.svg) [MIT Licensing](https://opensource.org/license/mit/)
 
 ## Questions
 - Github [benrodriguezmoran](https://github.com/benrodriguezmoran) 
