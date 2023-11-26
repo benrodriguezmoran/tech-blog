@@ -1,7 +1,9 @@
 
 # tech-blog
 ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A simple old school style blog to demonstrate using Sequelize as an ORM with express.
+
 ![screenshot](assets/images/screenshot.png)
 ## Table Of Contents
 - [Installation](#installation)
